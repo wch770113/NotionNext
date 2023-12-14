@@ -13,7 +13,7 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '分享思想',
   HEO_HERO_TITLE_2: '提高学习能力',
   HEO_HERO_TITLE_3: '初中数学小站',
-  HEO_HERO_TITLE_4: '欢迎大家',
+  HEO_HERO_TITLE_4: '初中数学小站',
   HEO_HERO_TITLE_5: 'Mr.王哥欢迎你',
   HEO_HERO_TITLE_LINK: 'https://661420.xyz',
 
@@ -21,7 +21,6 @@ const CONFIG = {
   HEO_HERO_CATEGORY_1: { title: '原创文章', url: '/tag/原创文章' },
   HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
   HEO_HERO_CATEGORY_3: { title: '实用资源', url: '/tag/实用资源' },
-  HEO_HERO_CATEGORY_3: { title: '七年级数学', url: '/tag/七年级数学' }，
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
